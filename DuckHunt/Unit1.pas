@@ -320,7 +320,7 @@ s:=trim(s);
 val(s,PhtRes,icode);
 
 //Шум от вибромотора
-if PhtRes<90 then begin
+if PhtRes<40 then begin
 ScnWait:=false;
 
 //Попал
