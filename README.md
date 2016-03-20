@@ -9,7 +9,7 @@
 <br>
 Если у вас уже есть пистолет денди, то отпаяйте фоторезистор и кнопку курок от схемы.
 <br><br>
-Фоторезистор плюсом подключаем на 5V, минусом на A0 (Analog Pin 0). Также с минуса фоторезистора подключаем обычный резистор 10кОм на GND. Один контакт кнопки курка подключаем на D2 (Digital Pin 2), а второй на GND. Виюромотор плюсом подключаем на D2 (Digital Pin 7), а минусом на GND.
+Фоторезистор плюсом подключаем на 5V, минусом на A0 (Analog Pin 0). Также с минуса фоторезистора подключаем обычный резистор 10кОм на GND. Один контакт кнопки курка подключаем на D2 (Digital Pin 2), а второй на GND. Вибромотор плюсом подключаем на D2 (Digital Pin 7), а минусом на GND.
 <br><br>
 Лучше играть вечером или за закрытыми шторами. 
 <h2>EN:</h2>
@@ -21,6 +21,6 @@ To connect the gun you need to arduino and 10k resistor to OM, and the rumble mo
 <br><br>
 If you already have a gun dandy Unsolder the LDR and the trigger button on the circuit.
 <br><br>
-Photoresistor plus connect to 5V, minus to A0 (Analog Pin 0). Also connect a conventional photoresist minus 10K resistor to GND. One touch connect button on the trigger D2 (Digital Pin 2) and the other to GND. Viyuromotor plus connect to D2 (Digital Pin 7) and minus to GND.
+Photoresistor plus connect to 5V, minus to A0 (Analog Pin 0). Also connect a conventional photoresist minus 10K resistor to GND. One touch connect button on the trigger D2 (Digital Pin 2) and the other to GND. Rumble motor plus connect to D2 (Digital Pin 7) and minus to GND.
 <br><br>
 It is better to play at night or behind closed curtains.
