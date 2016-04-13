@@ -4,7 +4,7 @@
 <br><br>
 Для самостоятельной сборки вам понадобится фоторезистор, кнопка курок и корпус пистолета. 
 <br><br>
-Для подключения пистолета вам понадобиться arduino и резистор на 10к ОМ, также по желанию вибромотор.<br>
+Для подключения пистолета вам понадобиться arduino и резистор на 10кОм, также по желанию вибромотор.<br>
 ![gun](https://cloud.githubusercontent.com/assets/9499881/13745843/ab66da74-ea09-11e5-9262-6c63f979f8a0.png)
 <br>
 Если у вас уже есть пистолет денди, то отпаяйте фоторезистор и кнопку курок от схемы.
@@ -17,7 +17,7 @@ Light Gun for PC, you can do both independently and from a Gun Zapper to a NES.
 <br><br>
 For self-assembly, you will need a photoresistor, a trigger button and the gun body.
 <br><br>
-To connect the gun you need to arduino and 10k resistor to OM, and the rumble motor on request.
+To connect the gun you need to arduino and 10k Ohm resistor, and the rumble motor on request.
 <br><br>
 If you already have a gun dandy Unsolder the LDR and the trigger button on the circuit.
 <br><br>
