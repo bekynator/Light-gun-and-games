@@ -345,7 +345,7 @@ end;
 
 end;
 
-if pos('SHOT',s)>0 then begin
+if (pos('SHOT',s)>0) and (ScnWait=false) and (AnimA<>'SHOT') and (AnimA<>'DOWN') and (DogRolf=false)  then begin
 
 if StpShow=false then begin
 Render.Enabled:=false;
@@ -368,6 +368,7 @@ procedure TForm1.FormKeyDown(Sender: TObject; var Key: Word;
 begin
 if key=VK_ESCAPE then Close;
 if key=VK_RETURN then CommPortDriver1.Connect;
+if key=VK_F10 then ShowMessage(IntToStr(BlackL));
 end;
 
 procedure TForm1.nextDuck;
